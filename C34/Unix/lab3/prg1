@@ -1,0 +1,5 @@
+#!/bin/bash
+clear
+a=$0
+b=$1
+echo "$a  $b"
